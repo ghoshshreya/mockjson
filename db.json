@@ -1,18 +1,20 @@
 {
   "userDetails": {
-      "isValid": true,
-      "fullName": "John Doe",
-      "email": "john.doe@example.com"
+    "isValid": true,
+    "fullName": "John Doe",
+    "email": "john.doe@example.com"
   },
   "issues": [
     {
-      "title: "Issue 1",
+      "title": "Issue 1",
       "sprintName": "SPRINT_23_01_01"
-    }, {
-      "title: "Issue 2",
+    },
+    {
+      "title": "Issue 2",
       "sprintName": "SPRINT_24_02_01"
-    }, , {
-      "title: "Issue 3",
+    },
+    {
+      "title": "Issue 3",
       "sprintName": "SPRINT_23_01_01"
     }
   ]
