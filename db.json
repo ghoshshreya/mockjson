@@ -1,5 +1,17 @@
 {
   "userDetails": {
       "fullName": "John Doe"
-  }
+  },
+  "issues": [
+    {
+      "title: "Issue 1",
+      "sprintName": "SPRINT_23_01_01"
+    }, {
+      "title: "Issue 2",
+      "sprintName": "SPRINT_24_02_01"
+    }, , {
+      "title: "Issue 3",
+      "sprintName": "SPRINT_23_01_01"
+    }
+  ]
 }
