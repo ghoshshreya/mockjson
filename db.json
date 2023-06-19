@@ -1,6 +1,8 @@
 {
   "userDetails": {
-      "fullName": "John Doe"
+      "isValid": true,
+      "fullName": "John Doe",
+      "email": "john.doe@example.com"
   },
   "issues": [
     {
