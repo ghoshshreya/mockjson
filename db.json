@@ -17,5 +17,23 @@
       "title": "Issue 3",
       "sprintName": "SPRINT_23_01_01"
     }
-  ]
+  ],
+  "sprints": [
+    {
+      "name": "SP1",
+      "startDate": null,
+      "endDate": null,
+      "isActive": true
+    }, {
+      "name": "SP2",
+      "startDate": null,
+      "endDate": null,
+      "isActive": true
+    }, {
+      "name": "SP3",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false
+    }
+      
 }
