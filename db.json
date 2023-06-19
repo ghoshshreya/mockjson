@@ -1,5 +1,5 @@
 {
-  getUserDetails: {
-    fullName: 'John Doe'
+  'getUserDetails': {
+    'fullName': 'John Doe'
   }
 }
